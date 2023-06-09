@@ -15,6 +15,7 @@ Once installed, verify that javac is available now : javac --version
 Compile Java program in Linux : 
 
 javac filename.java
+
 java filename //Classfilename
 
 And that’s how you run a Java program in the Linux terminal.
